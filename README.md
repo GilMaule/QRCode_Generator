@@ -22,8 +22,9 @@ Este projeto é um **gerador de QR Code online** que permite criar códigos QR a
 ---
 
 ## 📸 Tela de exemplo
-
-<img src="(https://github.com/GilMaule/QRCode_Generator/blob/master/assets/img/telaCode.png)https://github.com/GilMaule/QRCode_Generator/blob/master/assets/img/telaCode.png" alt="tela da pagina geradora">
+<img src="
+(https://github.com/GilMaule/QRCode_Generator/blob/master/assets/img/telaCode.png)https://github.com/Gil
+Maule/QRCode_Generator/blob/master/assets/img/telaCode.png" alt="tela da pagina geradora">
 
 ---
 
