@@ -8,7 +8,7 @@ Uma **ferramenta web simples e prática** para gerar códigos QR diretamente no 
 
 ## 🚀 Sobre o projeto
 
-Este projeto é um **gerador de QR Code online** que permite criar códigos QR a partir de qualquer texto (links, mensagens, contatos, etc). Ideal para compartilhar URLs e informações rapidamente — basta digitar o texto e copiar ou baixar o código gerado! :contentReference[oaicite:0]{index=0}
+Este projeto é um **gerador de QR Code online** que permite criar códigos QR a partir de qualquer texto (links, mensagens, contatos, etc). Ideal para compartilhar URLs e informações rapidamente — basta digitar o texto e copiar ou baixar o código gerado! 
 
 ---
 
